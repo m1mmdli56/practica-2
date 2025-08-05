@@ -207,7 +207,26 @@ span {
     font-size: 80px;
 }
 .main-content-box-link{
-    padding-top: 150px;
+    padding: 150px 0 250px 0;
     display: flex;
     justify-content: center;
+}
+.container3{
+    background-color: #D0CCC7;
+    background-image: url(../IMG/Round.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.container3-text-title{
+    padding: 120px 0 55px 0;
+    font-size: 80px;
+    text-align: center;
+}
+.container3-image{
+    display: flex;
+    justify-content: center;
+}
+.from-image{
+    padding: 238px 0;
 }
