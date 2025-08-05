@@ -89,6 +89,7 @@ span {
 
 .main-left-text {
     width: 50%;
+    line-height: 30px;
     padding: 60px 0 120px 0;
     font-size: 20px;
     color: #5C4529;
@@ -145,4 +146,68 @@ span {
 .main-menu-box-img-sell {
     width: 250px;
     height: 50px;
+}
+
+.main-image-right-img {
+    width: 150px;
+    height: 150px;
+}
+
+.main-image-right {
+    display: flex;
+}
+
+.main-image-right-img3 {
+    width: 150px;
+    height: 150px;
+}
+
+.main-image-right-img1 {
+    width: 600px;
+    height: 660px;
+}
+
+.main-image {
+    padding: 80px 0;
+    margin-top: 300px;
+    display: flex;
+    background-color: #FFF4E7;
+}
+
+.main-image-left {
+    padding-left: 50px;
+}
+
+.main-image-left-text-title {
+    width: 70%;
+    font-size: 80px;
+    padding: 140px 0 0 0;
+}
+
+.main-image-left-text {
+    width: 50%;
+    line-height: 30px;
+    padding: 60px 0 120px 0;
+    font-size: 20px;
+    color: #5C4529;
+}
+
+.main-content-box-title {
+    text-align: center;
+}
+
+.main-content-box {
+    display: flex;
+    gap: 50px;
+    flex-direction: row;
+    justify-content: center;
+}
+.main-content-box-title{
+    padding: 170px 0 130px 0;
+    font-size: 80px;
+}
+.main-content-box-link{
+    padding-top: 150px;
+    display: flex;
+    justify-content: center;
 }
